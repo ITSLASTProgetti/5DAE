@@ -1,0 +1,26 @@
+# DAE - PROGRAM   
+I programmi utilizzati saranno:
+Telegram: che tramite il "bot_father" da la possibilità di creare un nuovo bot
+Visual Studio Code: per la gestione del codice del bot 
+Python: come estensione di Visual Studio Code 
+SQL Lite: Per la creazione di database necessari al bot Telegram
+Wix: per la creazione del codice del sito
+My Maps: per la creazione della mappa personalizzata che sarà presente nel sito web
+
+
+Le funzioni che dobbiamo sviluppare sono:
+
+DAE su città, tramite il dataset fornito e ristemato dove ci spenderemo 2h dovremmo implementarlo su telegram dove tramite una stampa a video dei DAE dei diversi comuni, 
+cliccando su uno specifico DAE porta su una mappa creata su google maps 2h dove vedere il traggitto che porta al DAE
+Per eseguire tutto ciò bisogna implementare il datset su telegram creare una mappa su google personalizzata dove prendendo i dataset li implementiamo su google maps e
+collegare tramite telegram google mamps con il link del DAE
+
+
+
+Sito vulgativo
+Creeremo un sito divolugativo con wix dove lo modificheremo con foto link e un maps che servira a scopo divulgativo per informare la gente su come si utiizza un specifico DAeE
+ed il tempo che impiega sono 2/3 h.
+
+In allegato si trova un GRANTT molto semplice con la suddivisione del lavoro nei giorni rimanenti 
+LINK GANT:
+file:///C:/Users/Prova/Desktop/Gant.PNG
