@@ -1,40 +1,23 @@
-Nome struttura;Indirizzo;Disponibilit‡ accesso;Manutenzione periodica;Note
-"Unione sportiva Dilettantistica 
-Castelnuovo D/G";Impianto sportivo di Castelnuovo D/G Via Oregolo n. 8;Negli orari di apertura;SÏ;
-"Unione sportiva Dilettantistica 
-Castelnuovo D/G";"Impianto sportivo di Sandr‡ 
-Via S'Antonio - Sandr‡";Negli orari di apertura;SÏ;
-ASD Sportiva Cavalcaselle;"Impianto sportivo di Cavalcaselle 
-Via Enzo Ferrari ";Negli orari di apertura;SÏ;
-Circolo La Bandiera Oliosi;"Impianto sportivo di Oliosi 
-Via Custozza n. 37";Negli orari di apertura;SÏ;
-"Istituto Comprensivo ""Montini""";"Scuola Primaria Cavalcaselle    
-P. zza S. Lorenzo - Cavalcaselle";Negli orari di apertura;SÏ;
-"Istituto Comprensivo ""Montini""";"Scuola Media Castelnuovo D/G 
-Via Degli Studi 2 - Castelnuovo D/G";Negli orari di apertura;SÏ;
-"Istituto Comprensivo ""Montini""";"Scuola Primaria Castelnuovo D/G 
-Via Cesare Pavese 6 - Castelnuovo D/G";Negli orari di apertura;SÏ;
-"Istituto Comprensivo ""Montini""";"Scuola Primaria Sandr‡ 
-P. zza della Repubblica 3 - Sandr‡";Negli orari di apertura;SÏ;
-"Protezione Civile di 
-Castelnuovo D/G";"Mobile - Fissa
-Via Galileo Galilei 20 Castelnuovo D/G";Negli orari di apertura;SÏ;
-Corpo di Polizia Locale;"Mobile 
-P. zza Libert‡ 4 Castelnuovo D/G";Negli orari di apertura;SÏ;
-Corpo di Polizia Locale;"Fisso 
-P. zza Libert‡ 4 Castelnuovo D/G";Negli orari di apertura;SÏ;
-Atrio comune Pian Terreno;"Comune Castelnuovo D/G
-Piazza degli Apini 4 Castelnuovo D/G";Negli orari di apertura;SÏ;
-Teatro DIM Sandr‡;"DIM Sandr‡
-Via San Martini 4 Castelnuovo D/G";Negli orari di apertura;SÏ;
-Tennis Struttura Coperta;Impianto sportivo di Castelnuovo D/G Via Oregolo n. 8;Negli orari di apertura;SÏ;
-Palazzetto dello Sport;Impianto sportivo di Castelnuovo D/G Via Oregolo n. 8;Negli orari di apertura;SÏ;
-Circolo NOI / Chiesa;"Castelnuovo D/G 
-Via Castello 25 Castelnuovo D/G";Negli orari di apertura;SÏ;
-Circolo La Bandiera Oliosi;impianti sportivi di oliosi;Negli orari di apertura;SÏ;
-Atrio comune Pian Terreno;"Comune Castelnuovo D/G
-Piazza degli Apini 4 Castelnuovo D/G";Negli orari di apertura;SÏ;
-COMUNE CASTELNUOVO DEL GARDA;PIAZZA DEGLI ALPINI N. 4 CASTELNUOVO D/G;Sempre;SÏ;
-COMUNE CASTELNUOVO DEL GARDA;PIAZZA S' ANDREA FRAZ^ SANDR¿;Sempre;SÏ;
-COMUNE CASTELNUOVO DEL GARDA;PARCHEGGIO SCUOLA MATERNA FRAZ^ SANDR¿ VIA S' MARTINO;Sempre;SÏ;
-COMUNE CASTELNUOVO DEL GARDA;VIA XX SETTEMBRE CAVALCASELLE  ADIACENTE FARMACIA                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ;Sempre;SÏ;
+Nome struttura;Indirizzo;Disponibilit√† accesso;Manutenzione periodica;Note
+Unione sportiva Dilettantistica Castelnuovo D/G - Impianto sportivo di Castelnuovo D/G; Via Oregolo n. 8;Negli orari di apertura;S√¨;
+Unione sportiva Dilettantistica Castelnuovo D/G - Impianto sportivo di Sandr√†; Via S'Antonio - Sandr√†;Negli orari di apertura;S√¨;
+ASD Sportiva Cavalcaselle - Impianto sportivo di Cavalcaselle; Via Enzo Ferrari;Negli orari di apertura;S√¨;
+Circolo La Bandiera Oliosi - Impianto sportivo di Oliosi;Via Custozza n. 37;Negli orari di apertura;S√¨;
+Istituto Comprensivo "Montini" - Scuola Primaria Cavalcaselle;P. zza S. Lorenzo - Cavalcaselle;Negli orari di apertura;S√¨;
+Istituto Comprensivo "Montini" - Scuola Media Castelnuovo D/G;Via Degli Studi 2 - Castelnuovo D/G;Negli orari di apertura;S√¨;
+Istituto Comprensivo "Montini" - Scuola Primaria Castelnuovo D/G;Via Cesare Pavese 6 - Castelnuovo D/G;Negli orari di apertura;S√¨;
+Istituto Comprensivo "Montini" - Scuola Primaria Sandr√†;P. zza della Repubblica 3 - Sandr√†;Negli orari di apertura;S√¨;
+Protezione Civile di Castelnuovo D/G - Mobile - Fissa;Via Galileo Galilei 20 Castelnuovo D/G;Negli orari di apertura;S√¨;
+Corpo di Polizia Locale - Mobile;P. zza Libert√† 4 Castelnuovo D/G;Negli orari di apertura;S√¨;
+Corpo di Polizia Locale - Fisso;P. zza Libert√† 4 Castelnuovo D/G;Negli orari di apertura;S√¨;
+Atrio comune Pian Terreno - Comune Castelnuovo D/G;Piazza degli Apini 4 Castelnuovo D/G;Negli orari di apertura;S√¨;
+Teatro DIM Sandr√† - DIM Sandr√†;Via San Martini 4 Castelnuovo D/G;Negli orari di apertura;S√¨;
+Tennis Struttura Coperta - Impianto sportivo di Castelnuovo D/G;Via Oregolo n. 8;Negli orari di apertura;S√¨;
+Palazzetto dello Sport - Impianto sportivo di Castelnuovo D/G;Via Oregolo n. 8;Negli orari di apertura;S√¨;
+Circolo NOI / Chiesa - Castelnuovo D/G;Via Castello 25 Castelnuovo D/G;Negli orari di apertura;S√¨;
+Circolo La Bandiera Oliosi - impianti sportivi di oliosi;Negli orari di apertura;S√¨;
+Atrio comune Pian Terreno - Comune Castelnuovo D/G; Piazza degli Apini 4 Castelnuovo D/G";Negli orari di apertura;S√¨;
+COMUNE CASTELNUOVO DEL GARDA;PIAZZA DEGLI ALPINI N. 4 CASTELNUOVO D/G;Sempre;S√¨;
+COMUNE CASTELNUOVO DEL GARDA;PIAZZA S' ANDREA FRAZ^ SANDR√Ä;Sempre;S√¨;
+COMUNE CASTELNUOVO DEL GARDA;PARCHEGGIO SCUOLA MATERNA FRAZ^ SANDR√Ä VIA S' MARTINO;Sempre;S√¨;
+COMUNE CASTELNUOVO DEL GARDA;VIA XX SETTEMBRE CAVALCASELLE - ADIACENTE FARMACIA                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ;Sempre;S√¨;
